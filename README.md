@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jabri Abdessamad</h1>
 <h3 align="center">A full stack developer specialize in cross platform development with Flutter</h3>
-<img align='right' alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" >
+
 
 - 📫 How to reach me **jabriabdessamad2@gmail.com**
 
