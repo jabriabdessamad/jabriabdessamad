@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabri Abdessamad</h1>
-<h3 align="center">A FullStack developer specialize in cross platform development with Flutter</h3>
+<h3 align="center">Flutter and MERN stack developer</h3>
 
 
 - 📫 How to reach me **jabriabdessamad2@gmail.com**
